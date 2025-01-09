@@ -1,7 +1,7 @@
-##Project Overview
-From a superstore dataset(s), answer a series of questions using pivot tables, charts, formulas, etc. Showcases Excel proficency. 
+# Project Overview
+From a store dataset, answers a series of questions using pivot tables, charts, formulas, etc. Showcases Excel proficency. 
 
-##Questions
+# Questions
 1. How have profit and revenue changed over time?
 
 2. Create a visual showing % change in sales month-over-month for each product category.
